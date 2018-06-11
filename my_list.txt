@@ -1,0 +1,6 @@
+"Cheese"
+"Chocolate"
+"Yoghurt"
+"Muesli"
+"Avocados"
+"Wine"
